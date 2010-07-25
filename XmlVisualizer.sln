@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlVisualizer", "XmlVisualizer\XmlVisualizer.csproj", "{139CFEDE-296B-444E-8D14-B59D3CEC1DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXmlVisualizer", "TestXmlVisualizer\TestXmlVisualizer.csproj", "{8B27B8DA-5355-48B3-948B-3F0FDDB0A8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlViewer", "XmlViewer\XmlViewer.csproj", "{DADC4CB3-501F-4D99-AD18-8844A6CE1DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlViewerBoxWPF", "XmlViewerBoxWPF\XmlViewerBoxWPF.csproj", "{E0C03FF4-FC1F-4927-A3AB-3D9DAFB07722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlFileViewer", "XmlFileViewer\XmlFileViewer.csproj", "{43245388-F7F2-4E22-8E0D-C905BC26A2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139CFEDE-296B-444E-8D14-B59D3CEC1DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139CFEDE-296B-444E-8D14-B59D3CEC1DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139CFEDE-296B-444E-8D14-B59D3CEC1DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139CFEDE-296B-444E-8D14-B59D3CEC1DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B27B8DA-5355-48B3-948B-3F0FDDB0A8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B27B8DA-5355-48B3-948B-3F0FDDB0A8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B27B8DA-5355-48B3-948B-3F0FDDB0A8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B27B8DA-5355-48B3-948B-3F0FDDB0A8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADC4CB3-501F-4D99-AD18-8844A6CE1DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADC4CB3-501F-4D99-AD18-8844A6CE1DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADC4CB3-501F-4D99-AD18-8844A6CE1DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADC4CB3-501F-4D99-AD18-8844A6CE1DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C03FF4-FC1F-4927-A3AB-3D9DAFB07722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C03FF4-FC1F-4927-A3AB-3D9DAFB07722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C03FF4-FC1F-4927-A3AB-3D9DAFB07722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C03FF4-FC1F-4927-A3AB-3D9DAFB07722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43245388-F7F2-4E22-8E0D-C905BC26A2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43245388-F7F2-4E22-8E0D-C905BC26A2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43245388-F7F2-4E22-8E0D-C905BC26A2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43245388-F7F2-4E22-8E0D-C905BC26A2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
